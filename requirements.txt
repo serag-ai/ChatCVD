@@ -1,0 +1,12 @@
+datasets
+transformers
+evaluate
+peft
+flask
+safetensors
+torch
+tensorboard
+scikit-learn
+pandas
+imbalanced-learn
+numpy
