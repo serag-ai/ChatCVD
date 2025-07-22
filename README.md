@@ -1,4 +1,4 @@
-# Comparative Study of Medical Models vs. General Models
+# ChatCVD: A Retrieval-Augmented Chatbot for Personalized Cardiovascular Risk Assessment with a Comparison of Medical-Specific and General-Purpose LLMs
 
 
 ## Under Development  
