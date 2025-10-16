@@ -4,6 +4,7 @@
 This repository contains the code and models introduced in our paper:  
 > **"ChatCVD: A Retrieval-Augmented Chatbot for Personalized Cardiovascular Risk Assessment with a Comparison of Medical-Specific and General-Purpose LLMs"**  
 > *Lakhdhar, Wafa, Maryam Arabi, Ahmed Ibrahim, Abdulrahman Arabi, and Ahmed Serag. AI 6, no. 8 (2025)*
+> Downlad Paper [https://www.mdpi.com/2673-2688/6/8/163]
 
 This project conducts a comparative analysis of specialized medical language models against general-purpose language models. The objective is to evaluate their effectiveness in handling medical information and tasks. Following this analysis, we implement Retrieval-Augmented Generation (RAG) to enhance recommendation generation based on the findings.
 
